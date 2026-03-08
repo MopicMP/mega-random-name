@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mega-random-name"
+version = "1.0.0"
+description = "Mega generate random names/usernames/passwords"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.8"
+authors = [{name = "raccoonette"}]
+
+[project.urls]
+Homepage = "https://github.com/MopicMP/mega-random-name"
